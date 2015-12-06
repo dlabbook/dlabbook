@@ -1,7 +1,7 @@
 # Đexperiments
 A code repository for a Decentralized Lab Book
 
-S. C. Bürgel (s.buergel@gmail.com
+S. C. Bürgel
 
 ## documentation of academic experiments
 * hand‐written in lab book
