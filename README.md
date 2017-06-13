@@ -7,7 +7,6 @@ S. C. Bürgel
 
 26.11.2015
 
-
 ## documentation of academic experiments
 * hand‐written in lab book
 * required by law
@@ -16,9 +15,7 @@ S. C. Bürgel
 * inconsistently executed
 * always messy
 
- 
-![](Screen Shot 2015-12-06 at 20.19.10.png)
-
+![](https://github.com/dlabbook/dlabbook/blob/master/Screen%20Shot%202015-12-06%20at%2020.19.10.png?raw=true)
 
 ## aims
 
@@ -33,9 +30,6 @@ by implementing:
 * (encrypted) experimental result‐data stored on IPFS
 * hash of lab book entries published on blockchain
 
+![](https://raw.githubusercontent.com/dlabbook/dlabbook/master/Screen%20Shot%202015-12-06%20at%2020.23.03.png)
 
-![](Screen Shot 2015-12-06 at 20.23.03.png)
-
-
-
-![](Screen Shot 2015-12-06 at 20.23.17.png)
+![](https://raw.githubusercontent.com/dlabbook/dlabbook/master/Screen%20Shot%202015-12-06%20at%2020.23.17.png)
